@@ -1,0 +1,7 @@
+# Test and backup files
+test*.php
+test*.html
+*_backup.php
+
+# Archives
+*.zip
